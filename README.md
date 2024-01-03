@@ -1,4 +1,4 @@
-[![MasterHead](https://gqinfotech.com/Siteundermaintenance.gif)
+[MasterHead](https://gqinfotech.com/Siteundermaintenance.gif)
 <h1 align="center">Hi 👋, I'm Kaushik patil</h1>
 <h3 align="center">A passionate  Web developer from India</h3>
 <img align="right" alt="Coding" width="400" height=auto src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"
