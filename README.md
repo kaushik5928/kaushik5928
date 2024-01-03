@@ -1,7 +1,7 @@
 [![MasterHead](https://gqinfotech.com/Siteundermaintenance.gif)
 <h1 align="center">Hi 👋, I'm Kaushik patil</h1>
 <h3 align="center">A passionate  Web developer from India</h3>
-<img align="right" alt="Coding" width="400" height=auto src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+<img align="right" alt="Coding" width="400" height=auto src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif"
 ###
 
 
