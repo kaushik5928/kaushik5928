@@ -1,10 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-<h1 align="center">Hi 👋, I'm Harshal Tupe</h1>
-<h3 align="center">A passionate developer from India</h3>
+
+<h1 align="center">Hi 👋, I'm Kaushik patil</h1>
+<h3 align="center">A passionate  Web developer from India</h3>
 <img align="right" alt="Coding" width="400" height=auto src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+
 
 ###
 
@@ -12,8 +12,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2019 <br>📚 I'm currently learning React JS , DSA <br>🎯 Goals: To work as a Software Engineer applying my knowledge in the feild of Web development <br> 📫 How to reach me ** kaushik2003patil@gmail.com** </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/kaushik-patil-612b08219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushikpatil" height="30" width="40" /></a>
+<a href="https://instagram.com/harshal.tupe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshal.tupe_" height="30" width="40" /></a>
+</p>
 ###
 
 <h2 align="left">I code with</h2>
